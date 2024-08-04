@@ -1,20 +1,20 @@
-# Reanimated example
+# React Native Login and Signup UI with Reanimated
 
-<p>
-  <!-- iOS -->
-  <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  <!-- Android -->
-  <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  <!-- Web -->
-</p>
+This project is a React Native application that showcases a login and signup user interface using Reanimated for animations. The app is built using Expo for easier development and testing.
 
-## 🚀 How to use
+## Features
 
-> `npx create-expo my-app --example with-reanimated`
+- Smooth animations using Reanimated
+- Clean and modern UI design
+- User authentication screens: Login and Signup
 
-- Run `yarn` or `npm install`
-- Run `yarn start` or `npm run start` to try it out.
+## Dependencies
+- react-native-reanimated: Used for creating smooth and performant animations.
+- react-navigation: For handling navigation between screens.
+- expo: Framework and platform for universal React applications.
 
 ## 📝 Notes
 
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+
+
